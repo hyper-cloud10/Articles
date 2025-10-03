@@ -1,14 +1,8 @@
 [DSRV ResearchPedia X GAIROS] CLOBs on Blobs: Celestia를 활용한 DEX의 진화
 =====================================================================
 
-[![andy](https://miro.medium.com/v2/resize:fill:64:64/1*B8_U5I9IW5at3aMGJz19uw.png)](https://medium.com/@grayhat3400?source=post_page---byline--f7ee63ccdeab---------------------------------------)
 
-[andy](https://medium.com/@grayhat3400?source=post_page---byline--f7ee63ccdeab---------------------------------------)
-
-
-Aug 20, 2025
-
-[원본](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fdsrv%2Ff7ee63ccdeab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdsrv%2Fdsrv-researchpedia-x-gairos-clobs-on-blobs-celestia%25EB%25A5%25BC-%25ED%2599%259C%25EC%259A%25A9%25ED%2595%259C-dex%25EC%259D%2598-%25EC%25A7%2584%25ED%2599%2594-f7ee63ccdeab&user=andy&userId=2162cb9bc90&source=---header_actions--f7ee63ccdeab---------------------clap_footer------------------)
+[리서치 원본](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fdsrv%2Ff7ee63ccdeab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdsrv%2Fdsrv-researchpedia-x-gairos-clobs-on-blobs-celestia%25EB%25A5%25BC-%25ED%2599%259C%25EC%259A%25A9%25ED%2595%259C-dex%25EC%259D%2598-%25EC%25A7%2584%25ED%2599%2594-f7ee63ccdeab&user=andy&userId=2162cb9bc90&source=---header_actions--f7ee63ccdeab---------------------clap_footer------------------)
 
 --
 
