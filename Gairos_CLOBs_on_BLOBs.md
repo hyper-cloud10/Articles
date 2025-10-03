@@ -4,9 +4,7 @@
 
 [리서치 원본](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fdsrv%2Ff7ee63ccdeab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdsrv%2Fdsrv-researchpedia-x-gairos-clobs-on-blobs-celestia%25EB%25A5%25BC-%25ED%2599%259C%25EC%259A%25A9%25ED%2595%259C-dex%25EC%259D%2598-%25EC%25A7%2584%25ED%2599%2594-f7ee63ccdeab&user=andy&userId=2162cb9bc90&source=---header_actions--f7ee63ccdeab---------------------clap_footer------------------)
 
---
-
-Share
+* 참고: 리서치를 업로드한 사람은 제가 아니라 이태호 학회장님입니다. 
 
 ![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*if5x15hCx-15qeLY)
 
