@@ -130,7 +130,7 @@ Hibachi는 이러한 문제를 해결하기 위해 Succinct가 지원하는 최�
 
 또한 산술화 방식에 Sumcheck 프로토콜을 도입하여 성능을 극대화하였으며, 각 사용자가 지정한 커스텀 게이트 기반의 유연한 최적화도 가능하다는 점에서 모듈러 블록체인의 비전에 적합한 기술이다.
 
-3. 결론 및 전망: Celestia 기반 CLOB의 의의와 미래
+### 3. 결론 및 전망: Celestia 기반 CLOB의 의의와 미래
 -------------------------------------
 
 ![celestia](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tyQieITA-IgX6vG3fXdzCQ.png)
